@@ -1,0 +1,15 @@
+{
+  "name": "CocoaCall",
+  "version": "1.0.0",
+  "description": "An online system for organizing coffee chats",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Team Badass ADC",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^5.8.20",
+    "babel-loader": "^5.3.2",
+    "react": "^0.13.3",
+    "webpack": "^1.10.5"
+  }
+}
